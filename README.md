@@ -24,8 +24,7 @@
 📫 Puedes contactarme en | Gmail facuar1589@gmail.com | Linkedin: https://www.linkedin.com/in/facundo-arebalo/
 
 
-⚡ Dato curioso: Soy un apasionado del diseño de interfaces de usuario y me encanta crear experiencias web intuitivas y atractivas.
+⚡ ¡No dudes en echar un vistazo a mis proyectos en GitHub y contactarme si quieres colaborar o tienes alguna pregunta!
 
 
-¡No dudes en echar un vistazo a mis proyectos en GitHub y contactarme si quieres colaborar o tienes alguna pregunta!
 
