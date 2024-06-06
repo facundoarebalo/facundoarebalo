@@ -18,9 +18,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-💞️ Estoy buscando colaborar en proyectos relacionados con el desarrollo frontend.
-
-
 📫 Puedes contactarme en | Gmail facuar1589@gmail.com | Linkedin: https://www.linkedin.com/in/facundo-arebalo/
 
 
