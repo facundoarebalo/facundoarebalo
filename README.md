@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy @facundoarebalo.
 
-👀 Estoy interesado en el desarrollo web, específicamente en el frontend.
+👀 Full Stack Web Developer
 
 🌱 Actualmente estoy aprendiendo y perfeccionando mis habilidades en 
 
