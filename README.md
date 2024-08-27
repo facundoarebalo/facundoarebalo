@@ -12,7 +12,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const facu = {
   pronouns: "He" | "Him",
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "frontend dev"],
