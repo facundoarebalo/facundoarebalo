@@ -20,5 +20,6 @@ const facu = {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
       backend: ["mongoDB", "NodeJS", "Express"],
   }
+tools: ["Trello", "Slack", "Git", "Github"]
 }
 ```
